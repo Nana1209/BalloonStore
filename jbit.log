@@ -1,0 +1,2 @@
+ERROR 2017-07-10 11:09:57,947 DBHelper.java getConnection  java.sql.SQLException: The database has been closed
+ERROR 2017-07-13 09:42:53,404 DBHelper.java getConnection  java.sql.SQLException: path to 'C:\Users\cfy\Desktop\java\database\balloon.db': 'C:\Users\cfy' does not exist
